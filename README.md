@@ -1,6 +1,5 @@
 HEDM-Twin-Detection-Framework
-
-This framework could be used to find the deformation-induced twin during in-situ HEDM (High-Energy X-ray Diffraction Microscopy) measurements.
+This framework could be used to find the deformation twin generated during in-situ HEDM (High-Energy X-ray Diffraction Microscopy) measurements.
 
 ## Pipeline Overview
 * **Module-I:** Find the parent-twin pair from the HEDM dataset.
